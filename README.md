@@ -1,9 +1,5 @@
 # Selamat datang di profile saya!
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/AlhatifQuzwaenOfficial" alt="Foto Profil" width="300"/>
-</p>
-
 Halo, saya **Alhatif Quzwaen Official**, pengembang perangkat lunak yang bersemangat untuk berbagi dan berkolaborasi dalam proyek-proyek open source. Di sini, Anda akan menemukan berbagai proyek yang saya kerjakan, serta kontribusi saya terhadap komunitas pengembangan.
 
 Saya selalu terbuka untuk diskusi dan kolaborasi. Jangan ragu untuk menghubungi saya atau berkontribusi dalam proyek-proyek yang ada!
